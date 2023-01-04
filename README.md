@@ -5,9 +5,10 @@ Berikut ini adalah dokumentasi hasilnya
 
 https://user-images.githubusercontent.com/121161133/210519168-73a08b97-3511-4994-b028-6eaaeb5674aa.mp4
 
-Tampilan channel 1, channel 2, dan LED pada website Cayenne
+Channel 1 menampilkan suhu dalam satuan derajat Celcius, channel 2 menampilkan kelembaban, dan simbol lampu LED sebagai indikator sekaligus tombol ON/OFF lampu LED yang terhubung pada ESP32
 
 ![11](https://user-images.githubusercontent.com/121161133/210519993-8292af25-f3e0-4068-8599-541414e60f95.jpg)
 
 Tampilan suhu pada channel 1 dan kelelmbaban pada channel 2
+
 ![22](https://user-images.githubusercontent.com/121161133/210520008-dc9ceb4d-0887-46ab-9a19-7cf355d6caa5.jpeg)
